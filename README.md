@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Shekhar Chauhan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Data Structures and MERN development
-- 💞️ I’m looking to collaborate with Backend Developers
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/shekhar-chauhan-6a8259230/)
+- 👋 Hi, I’m Shekhar Chauhan.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Data Structures and MERN development.
+- 💞️ I’m looking to collaborate with Backend Developers.
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/shekhar-chauhan-6a8259230/).
 
 <!---
 shekhar2922/shekhar2922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
