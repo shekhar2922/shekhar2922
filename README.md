@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shekhar Chauhan.
+- 🔭 I am Backend Developer at Maxlence Digital.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Data Structures and MERN development.
 - 💞️ I’m looking to collaborate with Backend Developers.
